@@ -1,1 +1,21 @@
+# Echo API Server
+
+A simple RESTful Echo API built with Node.js and Express.
+Send a POST request and the server echoes back the same response body.
+Deployed on Render with automated testing via Postman.
+
+## Tech Stack
+- Node.js
+- Express.js
+- Render (Deployment)
+- Postman (Testing)
+
+## How It Works
+Send a POST request with any string in the body — the server returns the exact same string back.
+
+## Testing
+
+
+
+
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/51996823-9099a3a8-c36c-4b4b-981c-7fda9038a7bf?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D51996823-9099a3a8-c36c-4b4b-981c-7fda9038a7bf%26entityType%3Dcollection%26workspaceId%3D25275803-dfa1-4ff4-9f9e-540eec3c38dd#?env%5BJoshiHW1%5D=W3sia2V5IjoiZWNob19ib2R5IiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6IkhlbGxvIFdvcmxkISEiLCJjb21wbGV0ZVNlc3Npb25WYWx1ZSI6IkhlbGxvIFdvcmxkISEiLCJzZXNzaW9uSW5kZXgiOjB9XQ==)
